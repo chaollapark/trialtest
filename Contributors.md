@@ -10,6 +10,7 @@
 JiyinShao
 - [Rudi Bakaal](https://github.com/rudibakaal)
 - [Pradip Manna](https://github.com/Loosify00)
+- [CP] (https://github.com/chaollapark)
 - [Rahul Patanwadia](https://github.com/Rahul-Patanwadia)
 - [Cyril Azubuine](https://github.com/cyrilberrypi) [LinkedIn](https://www.linkedin.com/in/cyril-azubuine/) [X](https://twitter.com/iamcyril_edtech)
 - [Ashish Lakra](https://github.com/ashishlakraa)
